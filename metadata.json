@@ -1,0 +1,7 @@
+{
+  "name": "Magic Emoji Maker",
+  "description": "Upload a photo and transform it into 5 unique emoji stickers with different facial expressions using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
